@@ -1,0 +1,14 @@
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\ex02\obj\Debug\net8.0\ref\ex02.dll
