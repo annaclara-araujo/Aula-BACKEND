@@ -1,0 +1,15 @@
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\bin\Debug\net8.0\lacoex03.exe
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\bin\Debug\net8.0\lacoex03.deps.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\bin\Debug\net8.0\lacoex03.runtimeconfig.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\bin\Debug\net8.0\lacoex03.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\bin\Debug\net8.0\lacoex03.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.AssemblyInfoInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.AssemblyInfo.cs
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.csproj.CoreCompileInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.sourcelink.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\refint\lacoex03.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\lacoex03.genruntimeconfig.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacoex03\obj\Debug\net8.0\ref\lacoex03.dll

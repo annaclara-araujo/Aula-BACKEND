@@ -1,0 +1,15 @@
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.AssemblyInfoInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.AssemblyInfo.cs
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.csproj.CoreCompileInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.sourcelink.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\bin\Debug\net8.0\exprofessor.exe
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\bin\Debug\net8.0\exprofessor.deps.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\bin\Debug\net8.0\exprofessor.runtimeconfig.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\bin\Debug\net8.0\exprofessor.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\bin\Debug\net8.0\exprofessor.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\refint\exprofessor.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\exprofessor.genruntimeconfig.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\exprofessor\obj\Debug\net8.0\ref\exprofessor.dll

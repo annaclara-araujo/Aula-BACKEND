@@ -1,0 +1,15 @@
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\bin\Debug\net8.0\lacosex01.exe
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\bin\Debug\net8.0\lacosex01.deps.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\bin\Debug\net8.0\lacosex01.runtimeconfig.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\bin\Debug\net8.0\lacosex01.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\bin\Debug\net8.0\lacosex01.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.AssemblyInfoInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.AssemblyInfo.cs
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.csproj.CoreCompileInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.sourcelink.json
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\refint\lacosex01.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\lacosex01.genruntimeconfig.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\LaçosExemplos\lacosex01\obj\Debug\net8.0\ref\lacosex01.dll
