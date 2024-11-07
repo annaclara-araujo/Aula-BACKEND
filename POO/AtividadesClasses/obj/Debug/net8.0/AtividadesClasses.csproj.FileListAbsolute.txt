@@ -1,0 +1,14 @@
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.AssemblyInfoInputs.cache
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.AssemblyInfo.cs
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.csproj.CoreCompileInputs.cache
+C:\Users\43676443837\Desktop\POO\atividadesclasses\bin\Debug\net8.0\AtividadesClasses.exe
+C:\Users\43676443837\Desktop\POO\atividadesclasses\bin\Debug\net8.0\AtividadesClasses.deps.json
+C:\Users\43676443837\Desktop\POO\atividadesclasses\bin\Debug\net8.0\AtividadesClasses.runtimeconfig.json
+C:\Users\43676443837\Desktop\POO\atividadesclasses\bin\Debug\net8.0\AtividadesClasses.dll
+C:\Users\43676443837\Desktop\POO\atividadesclasses\bin\Debug\net8.0\AtividadesClasses.pdb
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.dll
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\refint\AtividadesClasses.dll
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.pdb
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\AtividadesClasses.genruntimeconfig.cache
+C:\Users\43676443837\Desktop\POO\atividadesclasses\obj\Debug\net8.0\ref\AtividadesClasses.dll

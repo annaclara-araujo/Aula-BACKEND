@@ -1,0 +1,15 @@
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\bin\Debug\net8.0\foreach01.exe
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\bin\Debug\net8.0\foreach01.deps.json
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\bin\Debug\net8.0\foreach01.runtimeconfig.json
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\bin\Debug\net8.0\foreach01.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\bin\Debug\net8.0\foreach01.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.AssemblyInfoInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.AssemblyInfo.cs
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.csproj.CoreCompileInputs.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.sourcelink.json
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\refint\foreach01.dll
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.pdb
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\foreach01.genruntimeconfig.cache
+C:\Users\43676443837\Desktop\aula-BackEnd\foreach01\obj\Debug\net8.0\ref\foreach01.dll
